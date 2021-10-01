@@ -50,11 +50,6 @@ font-size: 50px;
 font-weight: bold;
 color: white;
 /* cursor: pointer; */
-transition-property:all;
-}
-.heading:hover{
-    color: rgb(236, 118, 118);
-    transition-duration: 2s;
 }
 .body{
     /* border: 5px solid black; */
